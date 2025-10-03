@@ -6,3 +6,4 @@ now this is again in try 1
 but after first commit
 so this one is in master branch
 after commiting changes in anohter branch ni thse same lines
+this is stashing dude
